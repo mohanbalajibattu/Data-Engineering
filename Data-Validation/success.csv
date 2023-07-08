@@ -1,0 +1,535 @@
+0,The Shawshank Redemption,Frank Darabont,1994,142,Drama,9.3,82,28.34
+2,The Dark Knight,Christopher Nolan,2008,152,Action,9.0,84,534.86
+2,The Dark Knight,Christopher Nolan,2008,152,Crime,9.0,84,534.86
+2,The Dark Knight,Christopher Nolan,2008,152,Drama,9.0,84,534.86
+3,Schindler's List,Steven Spielberg,1993,195,Biography,9.0,95,96.9
+3,Schindler's List,Steven Spielberg,1993,195,Drama,9.0,95,96.9
+3,Schindler's List,Steven Spielberg,1993,195,History,9.0,95,96.9
+5,The Lord of the Rings: The Return of the King,Peter Jackson,2003,201,Action,9.0,94,377.85
+5,The Lord of the Rings: The Return of the King,Peter Jackson,2003,201,Adventure,9.0,94,377.85
+5,The Lord of the Rings: The Return of the King,Peter Jackson,2003,201,Drama,9.0,94,377.85
+8,Pulp Fiction,Quentin Tarantino,1994,154,Crime,8.9,95,107.93
+8,Pulp Fiction,Quentin Tarantino,1994,154,Drama,8.9,95,107.93
+9,Inception,Christopher Nolan,2010,148,Action,8.8,74,292.58
+9,Inception,Christopher Nolan,2010,148,Adventure,8.8,74,292.58
+9,Inception,Christopher Nolan,2010,148,Sci-Fi,8.8,74,292.58
+10,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,178,Action,8.8,92,315.54
+10,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,178,Adventure,8.8,92,315.54
+10,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,178,Drama,8.8,92,315.54
+11,Fight Club,David Fincher,1999,139,Drama,8.8,67,37.03
+12,Forrest Gump,Robert Zemeckis,1994,142,Drama,8.8,82,330.25
+12,Forrest Gump,Robert Zemeckis,1994,142,Romance,8.8,82,330.25
+14,The Lord of the Rings: The Two Towers,Peter Jackson,2002,179,Action,8.8,87,342.55
+14,The Lord of the Rings: The Two Towers,Peter Jackson,2002,179,Adventure,8.8,87,342.55
+14,The Lord of the Rings: The Two Towers,Peter Jackson,2002,179,Drama,8.8,87,342.55
+17,Interstellar,Christopher Nolan,2014,169,Adventure,8.7,74,188.02
+17,Interstellar,Christopher Nolan,2014,169,Drama,8.7,74,188.02
+17,Interstellar,Christopher Nolan,2014,169,Sci-Fi,8.7,74,188.02
+18,Goodfellas,Martin Scorsese,1990,145,Biography,8.7,92,46.84
+18,Goodfellas,Martin Scorsese,1990,145,Crime,8.7,92,46.84
+18,Goodfellas,Martin Scorsese,1990,145,Drama,8.7,92,46.84
+19,The Matrix,Lana Wachowski,1999,136,Action,8.7,73,171.48
+19,The Matrix,Lana Wachowski,1999,136,Sci-Fi,8.7,73,171.48
+24,The Green Mile,Frank Darabont,1999,189,Crime,8.6,61,136.8
+24,The Green Mile,Frank Darabont,1999,189,Drama,8.6,61,136.8
+24,The Green Mile,Frank Darabont,1999,189,Fantasy,8.6,61,136.8
+25,Terminator 2: Judgment Day,James Cameron,1991,137,Action,8.6,75,204.84
+25,Terminator 2: Judgment Day,James Cameron,1991,137,Sci-Fi,8.6,75,204.84
+26,Se7en,David Fincher,1995,127,Crime,8.6,65,100.13
+26,Se7en,David Fincher,1995,127,Drama,8.6,65,100.13
+26,Se7en,David Fincher,1995,127,Mystery,8.6,65,100.13
+27,Saving Private Ryan,Steven Spielberg,1998,169,Drama,8.6,91,216.54
+27,Saving Private Ryan,Steven Spielberg,1998,169,War,8.6,91,216.54
+28,The Silence of the Lambs,Jonathan Demme,1991,118,Crime,8.6,86,130.74
+28,The Silence of the Lambs,Jonathan Demme,1991,118,Drama,8.6,86,130.74
+28,The Silence of the Lambs,Jonathan Demme,1991,118,Thriller,8.6,86,130.74
+30,Spirited Away,Hayao Miyazaki,2001,125,Animation,8.6,96,10.06
+30,Spirited Away,Hayao Miyazaki,2001,125,Adventure,8.6,96,10.06
+30,Spirited Away,Hayao Miyazaki,2001,125,Family,8.6,96,10.06
+31,City of God,Fernando Meirelles,2002,130,Crime,8.6,79,7.56
+31,City of God,Fernando Meirelles,2002,130,Drama,8.6,79,7.56
+32,Life Is Beautiful,Roberto Benigni,1997,116,Comedy,8.6,59,57.6
+32,Life Is Beautiful,Roberto Benigni,1997,116,Drama,8.6,59,57.6
+32,Life Is Beautiful,Roberto Benigni,1997,116,Romance,8.6,59,57.6
+38,The Departed,Martin Scorsese,2006,151,Crime,8.5,85,132.38
+38,The Departed,Martin Scorsese,2006,151,Drama,8.5,85,132.38
+38,The Departed,Martin Scorsese,2006,151,Thriller,8.5,85,132.38
+39,Gladiator,Ridley Scott,2000,155,Action,8.5,67,187.71
+39,Gladiator,Ridley Scott,2000,155,Adventure,8.5,67,187.71
+39,Gladiator,Ridley Scott,2000,155,Drama,8.5,67,187.71
+42,The Prestige,Christopher Nolan,2006,130,Drama,8.5,66,53.09
+42,The Prestige,Christopher Nolan,2006,130,Mystery,8.5,66,53.09
+42,The Prestige,Christopher Nolan,2006,130,Sci-Fi,8.5,66,53.09
+43,Whiplash,Damien Chazelle,2014,106,Drama,8.5,89,13.09
+43,Whiplash,Damien Chazelle,2014,106,Music,8.5,89,13.09
+44,Léon: The Professional,Luc Besson,1994,110,Action,8.5,64,19.5
+44,Léon: The Professional,Luc Besson,1994,110,Crime,8.5,64,19.5
+44,Léon: The Professional,Luc Besson,1994,110,Drama,8.5,64,19.5
+45,The Lion King,Roger Allers,1994,88,Animation,8.5,88,422.78
+45,The Lion King,Roger Allers,1994,88,Adventure,8.5,88,422.78
+45,The Lion King,Roger Allers,1994,88,Drama,8.5,88,422.78
+46,The Usual Suspects,Bryan Singer,1995,106,Crime,8.5,77,23.34
+46,The Usual Suspects,Bryan Singer,1995,106,Drama,8.5,77,23.34
+46,The Usual Suspects,Bryan Singer,1995,106,Mystery,8.5,77,23.34
+48,American History X,Tony Kaye,1998,119,Crime,8.5,62,6.72
+48,American History X,Tony Kaye,1998,119,Drama,8.5,62,6.72
+50,The Pianist,Roman Polanski,2002,150,Biography,8.5,85,32.57
+50,The Pianist,Roman Polanski,2002,150,Drama,8.5,85,32.57
+50,The Pianist,Roman Polanski,2002,150,Music,8.5,85,32.57
+51,The Intouchables,Olivier Nakache,2011,112,Biography,8.5,57,13.18
+51,The Intouchables,Olivier Nakache,2011,112,Comedy,8.5,57,13.18
+51,The Intouchables,Olivier Nakache,2011,112,Drama,8.5,57,13.18
+62,Django Unchained,Quentin Tarantino,2012,165,Drama,8.4,81,162.81
+62,Django Unchained,Quentin Tarantino,2012,165,Western,8.4,81,162.81
+66,The Dark Knight Rises,Christopher Nolan,2012,164,Action,8.4,78,448.14
+66,The Dark Knight Rises,Christopher Nolan,2012,164,Drama,8.4,78,448.14
+66,The Dark Knight Rises,Christopher Nolan,2012,164,Thriller,8.4,78,448.14
+69,Oldboy,Park Chan-wook,2003,120,Action,8.4,77,0.71
+69,Oldboy,Park Chan-wook,2003,120,Drama,8.4,77,0.71
+69,Oldboy,Park Chan-wook,2003,120,Mystery,8.4,77,0.71
+70,Memento,Christopher Nolan,2000,113,Mystery,8.4,83,25.54
+70,Memento,Christopher Nolan,2000,113,Thriller,8.4,83,25.54
+75,WALL·E,Andrew Stanton,2008,98,Animation,8.4,95,223.81
+75,WALL·E,Andrew Stanton,2008,98,Adventure,8.4,95,223.81
+75,WALL·E,Andrew Stanton,2008,98,Family,8.4,95,223.81
+76,3 Idiots,Rajkumar Hirani,2009,170,Comedy,8.4,67,6.53
+76,3 Idiots,Rajkumar Hirani,2009,170,Drama,8.4,67,6.53
+77,The Lives of Others,Florian Henckel von Donnersmarck,2006,137,Drama,8.4,89,11.29
+77,The Lives of Others,Florian Henckel von Donnersmarck,2006,137,Mystery,8.4,89,11.29
+77,The Lives of Others,Florian Henckel von Donnersmarck,2006,137,Thriller,8.4,89,11.29
+91,Heat,Michael Mann,1995,170,Action,8.3,76,67.44
+91,Heat,Michael Mann,1995,170,Crime,8.3,76,67.44
+91,Heat,Michael Mann,1995,170,Drama,8.3,76,67.44
+92,Inglourious Basterds,Quentin Tarantino,2009,153,Adventure,8.3,69,120.54
+92,Inglourious Basterds,Quentin Tarantino,2009,153,Drama,8.3,69,120.54
+92,Inglourious Basterds,Quentin Tarantino,2009,153,War,8.3,69,120.54
+95,American Beauty,Sam Mendes,1999,122,Drama,8.3,84,130.1
+96,Requiem for a Dream,Darren Aronofsky,2000,102,Drama,8.3,71,3.64
+97,Good Will Hunting,Gus Van Sant,1997,126,Drama,8.3,70,138.43
+97,Good Will Hunting,Gus Van Sant,1997,126,Romance,8.3,70,138.43
+98,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,108,Drama,8.3,89,34.4
+98,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,108,Romance,8.3,89,34.4
+98,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,108,Sci-Fi,8.3,89,34.4
+101,Braveheart,Mel Gibson,1995,178,Biography,8.3,68,75.6
+101,Braveheart,Mel Gibson,1995,178,Drama,8.3,68,75.6
+101,Braveheart,Mel Gibson,1995,178,History,8.3,68,75.6
+103,Reservoir Dogs,Quentin Tarantino,1992,99,Crime,8.3,81,2.83
+103,Reservoir Dogs,Quentin Tarantino,1992,99,Thriller,8.3,81,2.83
+105,The Hunt,Thomas Vinterberg,2012,115,Drama,8.3,77,0.69
+106,Toy Story,John Lasseter,1995,81,Animation,8.3,96,191.8
+106,Toy Story,John Lasseter,1995,81,Adventure,8.3,96,191.8
+106,Toy Story,John Lasseter,1995,81,Comedy,8.3,96,191.8
+108,Up,Pete Docter,2009,96,Animation,8.3,88,293.0
+108,Up,Pete Docter,2009,96,Adventure,8.3,88,293.0
+108,Up,Pete Docter,2009,96,Comedy,8.3,88,293.0
+110,Amélie,Jean-Pierre Jeunet,2001,122,Comedy,8.3,69,33.23
+110,Amélie,Jean-Pierre Jeunet,2001,122,Romance,8.3,69,33.23
+111,Incendies,Denis Villeneuve,2010,131,Drama,8.3,80,6.86
+111,Incendies,Denis Villeneuve,2010,131,Mystery,8.3,80,6.86
+113,Toy Story 3,Lee Unkrich,2010,103,Animation,8.3,92,415.0
+113,Toy Story 3,Lee Unkrich,2010,103,Adventure,8.3,92,415.0
+113,Toy Story 3,Lee Unkrich,2010,103,Comedy,8.3,92,415.0
+114,Princess Mononoke,Hayao Miyazaki,1997,134,Animation,8.3,76,2.38
+114,Princess Mononoke,Hayao Miyazaki,1997,134,Action,8.3,76,2.38
+114,Princess Mononoke,Hayao Miyazaki,1997,134,Adventure,8.3,76,2.38
+121,A Separation,Asghar Farhadi,2011,123,Drama,8.3,95,7.1
+129,Like Stars on Earth,Aamir Khan,2007,165,Drama,8.3,0,1.22
+129,Like Stars on Earth,Aamir Khan,2007,165,Family,8.3,0,1.22
+138,Drishyam,Jeethu Joseph,2013,160,Crime,8.3,0,0.0
+138,Drishyam,Jeethu Joseph,2013,160,Drama,8.3,0,0.0
+138,Drishyam,Jeethu Joseph,2013,160,Thriller,8.3,0,0.0
+141,The Wolf of Wall Street,Martin Scorsese,2013,180,Biography,8.2,75,116.9
+141,The Wolf of Wall Street,Martin Scorsese,2013,180,Comedy,8.2,75,116.9
+141,The Wolf of Wall Street,Martin Scorsese,2013,180,Crime,8.2,75,116.9
+143,There Will Be Blood,Paul Thomas Anderson,2007,158,Drama,8.2,93,40.22
+144,Jurassic Park,Steven Spielberg,1993,127,Action,8.2,68,402.45
+144,Jurassic Park,Steven Spielberg,1993,127,Adventure,8.2,68,402.45
+144,Jurassic Park,Steven Spielberg,1993,127,Sci-Fi,8.2,68,402.45
+145,Shutter Island,Martin Scorsese,2010,138,Mystery,8.2,63,128.01
+145,Shutter Island,Martin Scorsese,2010,138,Thriller,8.2,63,128.01
+146,No Country for Old Men,Ethan Coen,2007,122,Crime,8.2,92,74.28
+146,No Country for Old Men,Ethan Coen,2007,122,Drama,8.2,92,74.28
+146,No Country for Old Men,Ethan Coen,2007,122,Thriller,8.2,92,74.28
+148,Batman Begins,Christopher Nolan,2005,140,Action,8.2,70,206.85
+148,Batman Begins,Christopher Nolan,2005,140,Crime,8.2,70,206.85
+148,Batman Begins,Christopher Nolan,2005,140,Drama,8.2,70,206.85
+151,Casino,Martin Scorsese,1995,178,Crime,8.2,73,42.44
+151,Casino,Martin Scorsese,1995,178,Drama,8.2,73,42.44
+152,Snatch,Guy Ritchie,2000,102,Comedy,8.2,55,30.33
+152,Snatch,Guy Ritchie,2000,102,Crime,8.2,55,30.33
+153,Howl's Moving Castle,Hayao Miyazaki,2004,119,Animation,8.2,82,4.71
+153,Howl's Moving Castle,Hayao Miyazaki,2004,119,Adventure,8.2,82,4.71
+153,Howl's Moving Castle,Hayao Miyazaki,2004,119,Family,8.2,82,4.71
+154,Unforgiven,Clint Eastwood,1992,130,Drama,8.2,85,101.16
+154,Unforgiven,Clint Eastwood,1992,130,Western,8.2,85,101.16
+155,The Truman Show,Peter Weir,1998,103,Comedy,8.2,90,125.62
+155,The Truman Show,Peter Weir,1998,103,Drama,8.2,90,125.62
+157,Kill Bill: Vol. 1,Quentin Tarantino,2003,111,Action,8.2,69,70.1
+157,Kill Bill: Vol. 1,Quentin Tarantino,2003,111,Crime,8.2,69,70.1
+157,Kill Bill: Vol. 1,Quentin Tarantino,2003,111,Thriller,8.2,69,70.1
+158,L.A. Confidential,Curtis Hanson,1997,138,Crime,8.2,91,64.62
+158,L.A. Confidential,Curtis Hanson,1997,138,Drama,8.2,91,64.62
+158,L.A. Confidential,Curtis Hanson,1997,138,Mystery,8.2,91,64.62
+159,The Sixth Sense,M. Night Shyamalan,1999,107,Drama,8.2,64,293.51
+159,The Sixth Sense,M. Night Shyamalan,1999,107,Mystery,8.2,64,293.51
+159,The Sixth Sense,M. Night Shyamalan,1999,107,Thriller,8.2,64,293.51
+160,Finding Nemo,Andrew Stanton,2003,100,Animation,8.2,90,380.84
+160,Finding Nemo,Andrew Stanton,2003,100,Adventure,8.2,90,380.84
+160,Finding Nemo,Andrew Stanton,2003,100,Comedy,8.2,90,380.84
+162,A Beautiful Mind,Ron Howard,2001,135,Biography,8.2,72,170.74
+162,A Beautiful Mind,Ron Howard,2001,135,Drama,8.2,72,170.74
+164,Downfall,Oliver Hirschbiegel,2004,156,Biography,8.2,82,5.51
+164,Downfall,Oliver Hirschbiegel,2004,156,Drama,8.2,82,5.51
+164,Downfall,Oliver Hirschbiegel,2004,156,History,8.2,82,5.51
+167,V for Vendetta,James McTeigue,2005,132,Action,8.2,62,70.51
+167,V for Vendetta,James McTeigue,2005,132,Drama,8.2,62,70.51
+167,V for Vendetta,James McTeigue,2005,132,Sci-Fi,8.2,62,70.51
+168,Pan's Labyrinth,Guillermo del Toro,2006,118,Drama,8.2,98,37.63
+168,Pan's Labyrinth,Guillermo del Toro,2006,118,Fantasy,8.2,98,37.63
+168,Pan's Labyrinth,Guillermo del Toro,2006,118,War,8.2,98,37.63
+174,The Secret in Their Eyes,Juan José Campanella,2009,129,Drama,8.2,80,6.39
+174,The Secret in Their Eyes,Juan José Campanella,2009,129,Mystery,8.2,80,6.39
+174,The Secret in Their Eyes,Juan José Campanella,2009,129,Romance,8.2,80,6.39
+183,Gangs of Wasseypur,Anurag Kashyap,2012,321,Action,8.2,89,0.0
+183,Gangs of Wasseypur,Anurag Kashyap,2012,321,Comedy,8.2,89,0.0
+183,Gangs of Wasseypur,Anurag Kashyap,2012,321,Crime,8.2,89,0.0
+188,Drishyam,Nishikant Kamat,2015,163,Crime,8.2,0,0.74
+188,Drishyam,Nishikant Kamat,2015,163,Drama,8.2,0,0.74
+188,Drishyam,Nishikant Kamat,2015,163,Mystery,8.2,0,0.74
+190,Zindagi Na Milegi Dobara,Zoya Akhtar,2011,155,Comedy,8.2,0,3.11
+190,Zindagi Na Milegi Dobara,Zoya Akhtar,2011,155,Drama,8.2,0,3.11
+190,Zindagi Na Milegi Dobara,Zoya Akhtar,2011,155,Musical,8.2,0,3.11
+195,Children of Heaven,Majid Majidi,1997,89,Drama,8.2,77,0.93
+195,Children of Heaven,Majid Majidi,1997,89,Family,8.2,77,0.93
+195,Children of Heaven,Majid Majidi,1997,89,Sport,8.2,77,0.93
+197,Swades,Ashutosh Gowariker,2004,189,Drama,8.2,0,1.22
+197,Swades,Ashutosh Gowariker,2004,189,Musical,8.2,0,1.22
+201,My Father and My Son,Çagan Irmak,2005,112,Drama,8.2,0,0.0
+201,My Father and My Son,Çagan Irmak,2005,112,Family,8.2,0,0.0
+206,Paan Singh Tomar,Tigmanshu Dhulia,2012,135,Action,8.2,0,0.04
+206,Paan Singh Tomar,Tigmanshu Dhulia,2012,135,Biography,8.2,0,0.04
+206,Paan Singh Tomar,Tigmanshu Dhulia,2012,135,Crime,8.2,0,0.04
+208,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,2013,186,Biography,8.2,0,1.63
+208,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,2013,186,Drama,8.2,0,1.63
+208,Bhaag Milkha Bhaag,Rakeysh Omprakash Mehra,2013,186,Sport,8.2,0,1.63
+210,The Grand Budapest Hotel,Wes Anderson,2014,99,Adventure,8.1,88,59.1
+210,The Grand Budapest Hotel,Wes Anderson,2014,99,Comedy,8.1,88,59.1
+210,The Grand Budapest Hotel,Wes Anderson,2014,99,Crime,8.1,88,59.1
+211,Prisoners,Denis Villeneuve,2013,153,Crime,8.1,70,61.0
+211,Prisoners,Denis Villeneuve,2013,153,Drama,8.1,70,61.0
+211,Prisoners,Denis Villeneuve,2013,153,Mystery,8.1,70,61.0
+212,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,2003,143,Action,8.1,63,305.41
+212,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,2003,143,Adventure,8.1,63,305.41
+212,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,2003,143,Fantasy,8.1,63,305.41
+215,Mad Max: Fury Road,George Miller,2015,120,Action,8.1,90,154.06
+215,Mad Max: Fury Road,George Miller,2015,120,Adventure,8.1,90,154.06
+215,Mad Max: Fury Road,George Miller,2015,120,Sci-Fi,8.1,90,154.06
+216,Gone Girl,David Fincher,2014,149,Drama,8.1,79,167.77
+216,Gone Girl,David Fincher,2014,149,Mystery,8.1,79,167.77
+216,Gone Girl,David Fincher,2014,149,Thriller,8.1,79,167.77
+218,The Help,Tate Taylor,2011,146,Drama,8.1,62,169.71
+220,Catch Me If You Can,Steven Spielberg,2002,141,Biography,8.1,75,164.62
+220,Catch Me If You Can,Steven Spielberg,2002,141,Crime,8.1,75,164.62
+220,Catch Me If You Can,Steven Spielberg,2002,141,Drama,8.1,75,164.62
+221,The Big Lebowski,Joel Coen,1998,117,Comedy,8.1,71,17.5
+221,The Big Lebowski,Joel Coen,1998,117,Crime,8.1,71,17.5
+224,Ratatouille,Brad Bird,2007,111,Animation,8.1,96,206.45
+224,Ratatouille,Brad Bird,2007,111,Adventure,8.1,96,206.45
+224,Ratatouille,Brad Bird,2007,111,Comedy,8.1,96,206.45
+225,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,130,Adventure,8.1,85,381.01
+225,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,130,Family,8.1,85,381.01
+225,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,130,Fantasy,8.1,85,381.01
+227,Inside Out,Pete Docter,2015,95,Animation,8.1,94,356.46
+227,Inside Out,Pete Docter,2015,95,Adventure,8.1,94,356.46
+227,Inside Out,Pete Docter,2015,95,Comedy,8.1,94,356.46
+231,Fargo,Joel Coen,1996,98,Crime,8.1,86,24.61
+231,Fargo,Joel Coen,1996,98,Thriller,8.1,86,24.61
+232,Trainspotting,Danny Boyle,1996,93,Drama,8.1,83,16.5
+236,Into the Wild,Sean Penn,2007,148,Adventure,8.1,73,18.35
+236,Into the Wild,Sean Penn,2007,148,Biography,8.1,73,18.35
+236,Into the Wild,Sean Penn,2007,148,Drama,8.1,73,18.35
+238,"Monsters, Inc.",Pete Docter,2001,92,Animation,8.1,79,289.92
+238,"Monsters, Inc.",Pete Docter,2001,92,Adventure,8.1,79,289.92
+238,"Monsters, Inc.",Pete Docter,2001,92,Comedy,8.1,79,289.92
+239,Memories of Murder,Bong Joon Ho,2003,132,Crime,8.1,82,0.01
+239,Memories of Murder,Bong Joon Ho,2003,132,Drama,8.1,82,0.01
+239,Memories of Murder,Bong Joon Ho,2003,132,Mystery,8.1,82,0.01
+240,Room,Lenny Abrahamson,2015,118,Drama,8.1,86,14.68
+240,Room,Lenny Abrahamson,2015,118,Thriller,8.1,86,14.68
+241,Before Sunrise,Richard Linklater,1995,101,Drama,8.1,77,5.54
+241,Before Sunrise,Richard Linklater,1995,101,Romance,8.1,77,5.54
+242,Rush,Ron Howard,2013,123,Action,8.1,74,26.95
+242,Rush,Ron Howard,2013,123,Biography,8.1,74,26.95
+242,Rush,Ron Howard,2013,123,Drama,8.1,74,26.95
+243,12 Years a Slave,Steve McQueen,2013,134,Biography,8.1,96,56.67
+243,12 Years a Slave,Steve McQueen,2013,134,Drama,8.1,96,56.67
+243,12 Years a Slave,Steve McQueen,2013,134,History,8.1,96,56.67
+244,Spotlight,Tom McCarthy,2015,129,Biography,8.1,93,45.06
+244,Spotlight,Tom McCarthy,2015,129,Crime,8.1,93,45.06
+244,Spotlight,Tom McCarthy,2015,129,Drama,8.1,93,45.06
+247,How to Train Your Dragon,Dean DeBlois,2010,98,Animation,8.1,75,217.58
+247,How to Train Your Dragon,Dean DeBlois,2010,98,Action,8.1,75,217.58
+247,How to Train Your Dragon,Dean DeBlois,2010,98,Adventure,8.1,75,217.58
+248,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,107,Action,8.1,66,3.9
+248,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,107,Comedy,8.1,66,3.9
+248,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,107,Crime,8.1,66,3.9
+249,Warrior,Gavin O'Connor,2011,140,Action,8.1,71,13.66
+249,Warrior,Gavin O'Connor,2011,140,Drama,8.1,71,13.66
+249,Warrior,Gavin O'Connor,2011,140,Sport,8.1,71,13.66
+251,Gran Torino,Clint Eastwood,2008,116,Drama,8.1,72,148.1
+252,Million Dollar Baby,Clint Eastwood,2004,132,Drama,8.1,86,100.49
+252,Million Dollar Baby,Clint Eastwood,2004,132,Sport,8.1,86,100.49
+254,In the Mood for Love,Kar-Wai Wong,2000,98,Drama,8.1,87,2.73
+254,In the Mood for Love,Kar-Wai Wong,2000,98,Romance,8.1,87,2.73
+255,La haine,Mathieu Kassovitz,1995,98,Crime,8.1,0,0.31
+255,La haine,Mathieu Kassovitz,1995,98,Drama,8.1,0,0.31
+256,Hachi: A Dog's Tale,Lasse Hallström,2009,93,Biography,8.1,0,0.0
+256,Hachi: A Dog's Tale,Lasse Hallström,2009,93,Drama,8.1,0,0.0
+256,Hachi: A Dog's Tale,Lasse Hallström,2009,93,Family,8.1,0,0.0
+260,The Iron Giant,Brad Bird,1999,86,Animation,8.1,85,23.16
+260,The Iron Giant,Brad Bird,1999,86,Action,8.1,85,23.16
+260,The Iron Giant,Brad Bird,1999,86,Adventure,8.1,85,23.16
+261,Wild Tales,Damián Szifron,2014,122,Comedy,8.1,77,3.11
+261,Wild Tales,Damián Szifron,2014,122,Drama,8.1,77,3.11
+261,Wild Tales,Damián Szifron,2014,122,Thriller,8.1,77,3.11
+262,Before Sunset,Richard Linklater,2004,80,Drama,8.1,91,5.82
+262,Before Sunset,Richard Linklater,2004,80,Romance,8.1,91,5.82
+271,In the Name of the Father,Jim Sheridan,1993,133,Biography,8.1,84,25.01
+271,In the Name of the Father,Jim Sheridan,1993,133,Crime,8.1,84,25.01
+271,In the Name of the Father,Jim Sheridan,1993,133,Drama,8.1,84,25.01
+272,Hotel Rwanda,Terry George,2004,121,Biography,8.1,79,23.53
+272,Hotel Rwanda,Terry George,2004,121,Drama,8.1,79,23.53
+272,Hotel Rwanda,Terry George,2004,121,History,8.1,79,23.53
+273,Amores Perros,Alejandro G. Iñárritu,2000,154,Drama,8.1,83,5.38
+273,Amores Perros,Alejandro G. Iñárritu,2000,154,Thriller,8.1,83,5.38
+276,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,1997,87,Animation,8.1,0,0.0
+276,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,1997,87,Action,8.1,0,0.0
+276,Neon Genesis Evangelion: The End of Evangelion,Hideaki Anno,1997,87,Drama,8.1,0,0.0
+284,Mary and Max,Adam Elliot,2009,92,Animation,8.1,0,0.0
+284,Mary and Max,Adam Elliot,2009,92,Comedy,8.1,0,0.0
+284,Mary and Max,Adam Elliot,2009,92,Drama,8.1,0,0.0
+287,Three Colors: Red,Krzysztof Kieslowski,1994,99,Drama,8.1,100,4.04
+287,Three Colors: Red,Krzysztof Kieslowski,1994,99,Mystery,8.1,100,4.04
+287,Three Colors: Red,Krzysztof Kieslowski,1994,99,Romance,8.1,100,4.04
+288,The Celebration,Thomas Vinterberg,1998,105,Drama,8.1,82,1.65
+289,PK,Rajkumar Hirani,2014,153,Comedy,8.1,0,10.62
+289,PK,Rajkumar Hirani,2014,153,Drama,8.1,0,10.62
+289,PK,Rajkumar Hirani,2014,153,Sci-Fi,8.1,0,10.62
+292,Bajrangi Bhaijaan,Kabir Khan,2015,163,Action,8.1,0,8.18
+292,Bajrangi Bhaijaan,Kabir Khan,2015,163,Adventure,8.1,0,8.18
+292,Bajrangi Bhaijaan,Kabir Khan,2015,163,Comedy,8.1,0,8.18
+295,Lagaan: Once Upon a Time in India,Ashutosh Gowariker,2001,224,Drama,8.1,84,0.07
+295,Lagaan: Once Upon a Time in India,Ashutosh Gowariker,2001,224,Musical,8.1,84,0.07
+295,Lagaan: Once Upon a Time in India,Ashutosh Gowariker,2001,224,Sport,8.1,84,0.07
+296,Yi Yi: A One and a Two...,Edward Yang,2000,173,Drama,8.1,94,1.14
+296,Yi Yi: A One and a Two...,Edward Yang,2000,173,Romance,8.1,94,1.14
+297,Underground,Emir Kusturica,1995,167,Comedy,8.1,79,0.17
+297,Underground,Emir Kusturica,1995,167,Drama,8.1,79,0.17
+297,Underground,Emir Kusturica,1995,167,Fantasy,8.1,79,0.17
+299,Farewell My Concubine,Kaige Chen,1993,171,Drama,8.1,83,5.22
+299,Farewell My Concubine,Kaige Chen,1993,171,Music,8.1,83,5.22
+299,Farewell My Concubine,Kaige Chen,1993,171,Romance,8.1,83,5.22
+301,Winter Sleep,Nuri Bilge Ceylan,2014,196,Drama,8.1,88,0.17
+304,Dil Chahta Hai,Farhan Akhtar,2001,183,Comedy,8.1,0,0.3
+304,Dil Chahta Hai,Farhan Akhtar,2001,183,Drama,8.1,0,0.3
+304,Dil Chahta Hai,Farhan Akhtar,2001,183,Romance,8.1,0,0.3
+305,Wolf Children,Mamoru Hosoda,2012,117,Animation,8.1,71,0.0
+305,Wolf Children,Mamoru Hosoda,2012,117,Drama,8.1,71,0.0
+305,Wolf Children,Mamoru Hosoda,2012,117,Family,8.1,71,0.0
+310,Masaan,Neeraj Ghaywan,2015,109,Drama,8.1,0,0.0
+313,Barfi!,Anurag Basu,2012,151,Comedy,8.1,0,2.8
+313,Barfi!,Anurag Basu,2012,151,Drama,8.1,0,2.8
+313,Barfi!,Anurag Basu,2012,151,Romance,8.1,0,2.8
+314,Talvar,Meghna Gulzar,2015,132,Crime,8.1,0,0.34
+314,Talvar,Meghna Gulzar,2015,132,Drama,8.1,0,0.34
+314,Talvar,Meghna Gulzar,2015,132,Mystery,8.1,0,0.34
+317,A Wednesday,Neeraj Pandey,2008,104,Action,8.1,0,0.0
+317,A Wednesday,Neeraj Pandey,2008,104,Crime,8.1,0,0.0
+317,A Wednesday,Neeraj Pandey,2008,104,Drama,8.1,0,0.0
+319,Rang De Basanti,Rakeysh Omprakash Mehra,2006,167,Comedy,8.1,0,2.2
+319,Rang De Basanti,Rakeysh Omprakash Mehra,2006,167,Crime,8.1,0,2.2
+319,Rang De Basanti,Rakeysh Omprakash Mehra,2006,167,Drama,8.1,0,2.2
+321,Raise the Red Lantern,Yimou Zhang,1991,125,Drama,8.1,0,2.6
+321,Raise the Red Lantern,Yimou Zhang,1991,125,Romance,8.1,0,2.6
+324,Let's Go! India,Shimit Amin,2007,153,Drama,8.1,68,1.11
+324,Let's Go! India,Shimit Amin,2007,153,Family,8.1,68,1.11
+324,Let's Go! India,Shimit Amin,2007,153,Sport,8.1,68,1.11
+326,Queen,Vikas Bahl,2013,146,Adventure,8.1,0,1.43
+326,Queen,Vikas Bahl,2013,146,Comedy,8.1,0,1.43
+326,Queen,Vikas Bahl,2013,146,Drama,8.1,0,1.43
+331,Munna Bhai M.B.B.S.,Rajkumar Hirani,2003,156,Comedy,8.1,0,0.0
+331,Munna Bhai M.B.B.S.,Rajkumar Hirani,2003,156,Drama,8.1,0,0.0
+332,Tangerines,Zaza Urushadze,2013,87,Drama,8.1,73,0.14
+332,Tangerines,Zaza Urushadze,2013,87,War,8.1,73,0.14
+333,Kahaani,Sujoy Ghosh,2012,122,Mystery,8.1,0,1.04
+333,Kahaani,Sujoy Ghosh,2012,122,Thriller,8.1,0,1.04
+334,Hera Pheri,Priyadarshan,2000,156,Action,8.1,0,0.0
+334,Hera Pheri,Priyadarshan,2000,156,Comedy,8.1,0,0.0
+334,Hera Pheri,Priyadarshan,2000,156,Crime,8.1,0,0.0
+335,The Bandit,Yavuz Turgul,1996,128,Crime,8.1,0,0.0
+335,The Bandit,Yavuz Turgul,1996,128,Drama,8.1,0,0.0
+335,The Bandit,Yavuz Turgul,1996,128,Thriller,8.1,0,0.0
+337,Udaan,Vikramaditya Motwane,2010,134,Drama,8.1,0,0.01
+338,OMG: Oh My God!,Umesh Shukla,2012,125,Comedy,8.1,0,0.92
+338,OMG: Oh My God!,Umesh Shukla,2012,125,Drama,8.1,0,0.92
+338,OMG: Oh My God!,Umesh Shukla,2012,125,Fantasy,8.1,0,0.92
+339,Black,Sanjay Leela Bhansali,2005,122,Drama,8.1,0,0.73
+340,Everything's Gonna Be Great,Ömer Vargi,1998,107,Comedy,8.1,0,0.0
+340,Everything's Gonna Be Great,Ömer Vargi,1998,107,Drama,8.1,0,0.0
+340,Everything's Gonna Be Great,Ömer Vargi,1998,107,Thriller,8.1,0,0.0
+341,Sarfarosh,John Mathew Matthan,1999,174,Action,8.1,0,0.0
+341,Sarfarosh,John Mathew Matthan,1999,174,Drama,8.1,0,0.0
+341,Sarfarosh,John Mathew Matthan,1999,174,Thriller,8.1,0,0.0
+345,Guardians of the Galaxy,James Gunn,2014,121,Action,8.0,76,333.18
+345,Guardians of the Galaxy,James Gunn,2014,121,Adventure,8.0,76,333.18
+345,Guardians of the Galaxy,James Gunn,2014,121,Comedy,8.0,76,333.18
+348,Black Swan,Darren Aronofsky,2010,108,Drama,8.0,79,106.95
+348,Black Swan,Darren Aronofsky,2010,108,Thriller,8.0,79,106.95
+350,The Avengers,Joss Whedon,2012,143,Action,8.0,69,623.28
+350,The Avengers,Joss Whedon,2012,143,Sci-Fi,8.0,69,623.28
+352,The Martian,Ridley Scott,2015,144,Adventure,8.0,80,228.43
+352,The Martian,Ridley Scott,2015,144,Drama,8.0,80,228.43
+352,The Martian,Ridley Scott,2015,144,Sci-Fi,8.0,80,228.43
+353,Donnie Darko,Richard Kelly,2001,113,Drama,8.0,88,1.48
+353,Donnie Darko,Richard Kelly,2001,113,Mystery,8.0,88,1.48
+353,Donnie Darko,Richard Kelly,2001,113,Sci-Fi,8.0,88,1.48
+354,The Incredibles,Brad Bird,2004,115,Animation,8.0,90,261.44
+354,The Incredibles,Brad Bird,2004,115,Action,8.0,90,261.44
+354,The Incredibles,Brad Bird,2004,115,Adventure,8.0,90,261.44
+355,Her,Spike Jonze,2013,126,Drama,8.0,91,25.57
+355,Her,Spike Jonze,2013,126,Romance,8.0,91,25.57
+355,Her,Spike Jonze,2013,126,Sci-Fi,8.0,91,25.57
+358,Casino Royale,Martin Campbell,2006,144,Action,8.0,80,167.45
+358,Casino Royale,Martin Campbell,2006,144,Adventure,8.0,80,167.45
+358,Casino Royale,Martin Campbell,2006,144,Thriller,8.0,80,167.45
+359,The Revenant,Alejandro G. Iñárritu,2015,156,Action,8.0,76,183.64
+359,The Revenant,Alejandro G. Iñárritu,2015,156,Adventure,8.0,76,183.64
+359,The Revenant,Alejandro G. Iñárritu,2015,156,Drama,8.0,76,183.64
+360,The Imitation Game,Morten Tyldum,2014,114,Biography,8.0,71,91.13
+360,The Imitation Game,Morten Tyldum,2014,114,Drama,8.0,71,91.13
+360,The Imitation Game,Morten Tyldum,2014,114,Thriller,8.0,71,91.13
+361,Sin City,Frank Miller,2005,124,Crime,8.0,74,74.1
+361,Sin City,Frank Miller,2005,124,Thriller,8.0,74,74.1
+363,Dances with Wolves,Kevin Costner,1990,181,Adventure,8.0,72,184.21
+363,Dances with Wolves,Kevin Costner,1990,181,Drama,8.0,72,184.21
+363,Dances with Wolves,Kevin Costner,1990,181,Western,8.0,72,184.21
+364,Magnolia,Paul Thomas Anderson,1999,188,Drama,8.0,78,22.46
+365,Slumdog Millionaire,Danny Boyle,2008,120,Crime,8.0,84,141.32
+365,Slumdog Millionaire,Danny Boyle,2008,120,Drama,8.0,84,141.32
+365,Slumdog Millionaire,Danny Boyle,2008,120,Romance,8.0,84,141.32
+366,Scent of a Woman,Martin Brest,1992,156,Drama,8.0,59,63.9
+368,Groundhog Day,Harold Ramis,1993,101,Comedy,8.0,72,70.91
+368,Groundhog Day,Harold Ramis,1993,101,Drama,8.0,72,70.91
+368,Groundhog Day,Harold Ramis,1993,101,Fantasy,8.0,72,70.91
+372,Aladdin,Ron Clements,1992,90,Animation,8.0,86,217.35
+372,Aladdin,Ron Clements,1992,90,Adventure,8.0,86,217.35
+372,Aladdin,Ron Clements,1992,90,Comedy,8.0,86,217.35
+373,Blood Diamond,Edward Zwick,2006,143,Adventure,8.0,64,57.37
+373,Blood Diamond,Edward Zwick,2006,143,Drama,8.0,64,57.37
+373,Blood Diamond,Edward Zwick,2006,143,Thriller,8.0,64,57.37
+374,12 Monkeys,Terry Gilliam,1995,129,Mystery,8.0,74,57.14
+374,12 Monkeys,Terry Gilliam,1995,129,Sci-Fi,8.0,74,57.14
+374,12 Monkeys,Terry Gilliam,1995,129,Thriller,8.0,74,57.14
+375,The Pursuit of Happyness,Gabriele Muccino,2006,117,Biography,8.0,64,163.57
+375,The Pursuit of Happyness,Gabriele Muccino,2006,117,Drama,8.0,64,163.57
+376,Big Fish,Tim Burton,2003,125,Adventure,8.0,58,66.26
+376,Big Fish,Tim Burton,2003,125,Drama,8.0,58,66.26
+376,Big Fish,Tim Burton,2003,125,Fantasy,8.0,58,66.26
+377,Beauty and the Beast,Gary Trousdale,1991,84,Animation,8.0,95,218.97
+377,Beauty and the Beast,Gary Trousdale,1991,84,Family,8.0,95,218.97
+377,Beauty and the Beast,Gary Trousdale,1991,84,Fantasy,8.0,95,218.97
+378,JFK,Oliver Stone,1991,189,Drama,8.0,72,70.41
+378,JFK,Oliver Stone,1991,189,History,8.0,72,70.41
+378,JFK,Oliver Stone,1991,189,Thriller,8.0,72,70.41
+381,The Bourne Ultimatum,Paul Greengrass,2007,115,Action,8.0,85,227.47
+381,The Bourne Ultimatum,Paul Greengrass,2007,115,Mystery,8.0,85,227.47
+381,The Bourne Ultimatum,Paul Greengrass,2007,115,Thriller,8.0,85,227.47
+384,Perfect Blue,Satoshi Kon,1997,81,Animation,8.0,67,0.78
+384,Perfect Blue,Satoshi Kon,1997,81,Crime,8.0,67,0.78
+384,Perfect Blue,Satoshi Kon,1997,81,Drama,8.0,67,0.78
+386,Kill Bill: Vol. 2,Quentin Tarantino,2004,137,Action,8.0,83,66.21
+386,Kill Bill: Vol. 2,Quentin Tarantino,2004,137,Crime,8.0,83,66.21
+386,Kill Bill: Vol. 2,Quentin Tarantino,2004,137,Thriller,8.0,83,66.21
+389,The King's Speech,Tom Hooper,2010,118,Biography,8.0,88,138.8
+389,The King's Speech,Tom Hooper,2010,118,Drama,8.0,88,138.8
+389,The King's Speech,Tom Hooper,2010,118,History,8.0,88,138.8
+390,Dogville,Lars von Trier,2003,178,Crime,8.0,61,1.53
+390,Dogville,Lars von Trier,2003,178,Drama,8.0,61,1.53
+394,Ip Man,Wilson Yip,2008,106,Action,8.0,59,0.0
+394,Ip Man,Wilson Yip,2008,106,Biography,8.0,59,0.0
+394,Ip Man,Wilson Yip,2008,106,Drama,8.0,59,0.0
+395,Sling Blade,Billy Bob Thornton,1996,135,Drama,8.0,84,24.48
+396,Chungking Express,Kar-Wai Wong,1994,102,Comedy,8.0,78,0.6
+396,Chungking Express,Kar-Wai Wong,1994,102,Crime,8.0,78,0.6
+396,Chungking Express,Kar-Wai Wong,1994,102,Drama,8.0,78,0.6
+399,Mommy,Xavier Dolan,2014,139,Drama,8.0,74,3.49
+410,Cinderella Man,Ron Howard,2005,144,Biography,8.0,69,61.65
+410,Cinderella Man,Ron Howard,2005,144,Drama,8.0,69,61.65
+410,Cinderella Man,Ron Howard,2005,144,Romance,8.0,69,61.65
+411,The Legend of 1900,Giuseppe Tornatore,1998,169,Drama,8.0,58,0.26
+411,The Legend of 1900,Giuseppe Tornatore,1998,169,Music,8.0,58,0.26
+411,The Legend of 1900,Giuseppe Tornatore,1998,169,Romance,8.0,58,0.26
+418,Infernal Affairs,Andrew Lau,2002,101,Action,8.0,75,0.17
+418,Infernal Affairs,Andrew Lau,2002,101,Crime,8.0,75,0.17
+418,Infernal Affairs,Andrew Lau,2002,101,Drama,8.0,75,0.17
+419,The Straight Story,David Lynch,1999,112,Biography,8.0,86,6.2
+419,The Straight Story,David Lynch,1999,112,Drama,8.0,86,6.2
+420,Baahubali: The Beginning,S.S. Rajamouli,2015,159,Action,8.0,0,6.74
+420,Baahubali: The Beginning,S.S. Rajamouli,2015,159,Drama,8.0,0,6.74
+430,Elite Squad,José Padilha,2007,115,Action,8.0,33,0.01
+430,Elite Squad,José Padilha,2007,115,Crime,8.0,33,0.01
+430,Elite Squad,José Padilha,2007,115,Drama,8.0,33,0.01
+432,The Tale of The Princess Kaguya,Isao Takahata,2013,137,Animation,8.0,89,1.51
+432,The Tale of The Princess Kaguya,Isao Takahata,2013,137,Drama,8.0,89,1.51
+432,The Tale of The Princess Kaguya,Isao Takahata,2013,137,Family,8.0,89,1.51
+433,Nobody Knows,Kore-eda Hirokazu,2004,141,Drama,8.0,88,0.68
+436,Secrets & Lies,Mike Leigh,1996,136,Comedy,8.0,91,13.42
+436,Secrets & Lies,Mike Leigh,1996,136,Drama,8.0,91,13.42
+437,The Diving Bell and the Butterfly,Julian Schnabel,2007,112,Biography,8.0,92,5.99
+437,The Diving Bell and the Butterfly,Julian Schnabel,2007,112,Drama,8.0,92,5.99
+438,Song of the Sea,Tomm Moore,2014,93,Animation,8.0,85,0.86
+438,Song of the Sea,Tomm Moore,2014,93,Adventure,8.0,85,0.86
+438,Song of the Sea,Tomm Moore,2014,93,Drama,8.0,85,0.86
+439,The Sea Inside,Alejandro Amenábar,2004,126,Biography,8.0,74,2.09
+439,The Sea Inside,Alejandro Amenábar,2004,126,Drama,8.0,74,2.09
+440,My Sassy Girl,Jae-young Kwak,2001,137,Comedy,8.0,0,0.0
+440,My Sassy Girl,Jae-young Kwak,2001,137,Drama,8.0,0,0.0
+440,My Sassy Girl,Jae-young Kwak,2001,137,Romance,8.0,0,0.0
+444,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,181,Drama,8.0,0,0.0
+444,Dilwale Dulhania Le Jayenge,Aditya Chopra,1995,181,Romance,8.0,0,0.0
+445,Departures,Yôjirô Takita,2008,130,Drama,8.0,68,1.5
+446,Persepolis,Vincent Paronnaud,2007,96,Animation,8.0,90,4.45
+446,Persepolis,Vincent Paronnaud,2007,96,Biography,8.0,90,4.45
+446,Persepolis,Vincent Paronnaud,2007,96,Drama,8.0,90,4.45
+449,"Black Cat, White Cat",Emir Kusturica,1998,127,Comedy,8.0,73,0.35
+449,"Black Cat, White Cat",Emir Kusturica,1998,127,Crime,8.0,73,0.35
+449,"Black Cat, White Cat",Emir Kusturica,1998,127,Romance,8.0,73,0.35
+454,"Spring, Summer, Fall, Winter... and Spring",Kim Ki-duk,2003,103,Drama,8.0,85,2.38
+454,"Spring, Summer, Fall, Winter... and Spring",Kim Ki-duk,2003,103,Romance,8.0,85,2.38
+455,Haider,Vishal Bhardwaj,2014,160,Action,8.0,0,0.9
+455,Haider,Vishal Bhardwaj,2014,160,Crime,8.0,0,0.9
+455,Haider,Vishal Bhardwaj,2014,160,Drama,8.0,0,0.9
+456,Elite Squad 2: The Enemy Within,José Padilha,2010,115,Action,8.0,71,0.1
+456,Elite Squad 2: The Enemy Within,José Padilha,2010,115,Crime,8.0,71,0.1
+456,Elite Squad 2: The Enemy Within,José Padilha,2010,115,Drama,8.0,71,0.1
+461,Central Station,Walter Salles,1998,110,Drama,8.0,80,5.6
+462,G.O.R.A.,Ömer Faruk Sorak,2004,127,Adventure,8.0,0,0.0
+462,G.O.R.A.,Ömer Faruk Sorak,2004,127,Comedy,8.0,0,0.0
+462,G.O.R.A.,Ömer Faruk Sorak,2004,127,Sci-Fi,8.0,0,0.0
+464,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,2004,140,Action,8.0,64,1.11
+464,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,2004,140,Drama,8.0,64,1.11
+464,Tae Guk Gi: The Brotherhood of War,Je-kyu Kang,2004,140,War,8.0,64,1.11
+466,"Carry On, Munna Bhai",Rajkumar Hirani,2006,144,Comedy,8.0,0,2.22
+466,"Carry On, Munna Bhai",Rajkumar Hirani,2006,144,Drama,8.0,0,2.22
+466,"Carry On, Munna Bhai",Rajkumar Hirani,2006,144,Romance,8.0,0,2.22
+467,Special 26,Neeraj Pandey,2013,144,Crime,8.0,0,1.08
+467,Special 26,Neeraj Pandey,2013,144,Drama,8.0,0,1.08
+467,Special 26,Neeraj Pandey,2013,144,Thriller,8.0,0,1.08
+468,The Breath,Levent Semerci,2009,128,Action,8.0,0,0.0
+468,The Breath,Levent Semerci,2009,128,Drama,8.0,0,0.0
+468,The Breath,Levent Semerci,2009,128,Thriller,8.0,0,0.0
+469,Andaz Apna Apna,Rajkumar Santoshi,1994,160,Action,8.0,0,0.0
+469,Andaz Apna Apna,Rajkumar Santoshi,1994,160,Comedy,8.0,0,0.0
+469,Andaz Apna Apna,Rajkumar Santoshi,1994,160,Romance,8.0,0,0.0
+470,Vizontele,Yilmaz Erdogan,2001,110,Comedy,8.0,0,0.0
+470,Vizontele,Yilmaz Erdogan,2001,110,Drama,8.0,0,0.0
